@@ -1,2 +1,2 @@
 # CScript
-Learning scripting by e-book 
+Learning scripting by e-book...
