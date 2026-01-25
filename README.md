@@ -1,2 +1,3 @@
 # CScript
 Learning scripting by e-books...
+25-01-26 New Win
